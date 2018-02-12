@@ -1,214 +1,216 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<mod>
-    <name>Shot Speed</name>
-    <shortdescription>Displays a shot speed indicator</shortdescription>
-    <creator>Vod</creator>
-    <id>shotspeed</id>
-    <version>1</version>
-    <file>Shot Speed.zip</file>
-</mod>
-<mod>
-    <name>Default System Scripts</name>
-    <shortdescription>Default launcher system scripts</shortdescription>
-    <creator>Vod</creator>
-    <required />
-    <id>systemscripts</id>
-    <version>2</version>
-    <file>System.zip</file>
-</mod>
-<mod>
-    <name>Selective Texture Filtering</name>
-    <shortdescription>Adds the option to selectivity apply anisotropic filtering to textures that need it most</shortdescription>
-    <creator>Vod</creator>
-    <id>selectivefilter</id>
-    <version>1</version>
-    <file>Selective Filtering.zip</file>
-</mod>
-<mod>
-    <name>Screenshots</name>
-    <shortdescription>Faster screenshot method with jpg support</shortdescription>
-    <creator>Vod</creator>
-    <id>screenshot</id>
-    <version>1</version>
-    <file>Screenshots.zip</file>
-</mod>
-<mod>
-    <name>Reload Assets</name>
-    <shortdescription>Reload all assets, including scripts using CTRL + ALT + R.</shortdescription>
-    <description>This releases all assets and scripts and then reloads all scripts and executes the global scope. After all scripts have been loaded, it calls the "Reloaded" callback. This is where you can reload everything. 
-    It's best practice to have a single function that loads all assets that is called by both the "DeviceCreated" callback and "Reloaded" callback.
-    </description>
-    <creator>Vod</creator>
-    <id>reload</id>
-    <version>1</version>
-    <file>Reload Assets.zip</file>
-</mod>
-<mod>
-    <name>Points</name>
-    <shortdescription>Set the game mode points within the launcher GUI</shortdescription>
-    <creator>Vod</creator>
-    <id>points</id>
-    <version>1</version>
-    <file>Points.zip</file>
-</mod>
-<mod>
-    <name>NHL Upper Ad Module</name>
-    <shortdescription>Animated upper ads for NHL teams. This is an addon for Vod's Animated Upper Ad mod.</shortdescription>
-    <creator>Jedeash</creator>
-    <id>upperadsnhl</id>
-    <version>1</version>
-    <dependency>upperads</dependency>
-    <file>NHL Upper Ads.zip</file>
-</mod>
-<mod>
-    <name>Default Libraries</name>
-    <shortdescription>Default launcher libraries</shortdescription>
-    <creator>Vod</creator>
-    <version>2</version>
-    <required />
-    <id>launcherlibs</id>
-    <launcherversion>2</launcherversion>
-    <file>Libraries.zip</file>
-</mod>
-<mod>
-    <name>Jumbotron Video Example</name>
-    <shortdescription>This is a demonstration of the video texture library. Select Toronto as the home team and press the "I" key while in replay mode</shortdescription>
-    <creator>Vod</creator>
-    <launcherversion>1</launcherversion>
-    <version>1</version>
-    <id>jumbotronexample</id>
-    <file>Jumbotron Example.zip</file>
-</mod>
-<mod>
-    <name>Improved Goalie Cover</name>
-    <shortdescription>This mod attempts to improve the goalie cover logic</shortdescription>
-    <description>
-        This mod adds a system of "heat" to the game. As the heat goes up, the goalie has a greater chance of covering the puck.
-        
-        <b>This mod is highly experimental.</b>
-    </description>
-    <creator>Vod</creator>
-    <id>goaliecover</id>
-    <version>1</version>
-    <file>Goalie Cover.zip</file>
-</mod>
-<mod>
-    <name>Goal Replays</name>
-    <shortdescription>Allows you to configure the number of times to display goal replays</shortdescription>
-    <creator>Vod</creator>
-    <id>goalreplays</id>
-    <version>1</version>
-    <file>Goal Replays.zip</file>
-</mod>
-<mod>
-    <name>Game Logging</name>
-    <shortdescription>Log gameplay events to "Game Log.txt"</shortdescription>
-    <creator>Vod</creator>
-    <id>gamelog</id>
-    <version>1</version>
-    <file>Game Log.zip</file>
-</mod>
-<mod>
-    <name>Framerate</name>
-    <shortdescription>Measures and displays the framerate</shortdescription>
-    <creator>Vod</creator>
-    <id>framerate</id>
-    <version>1</version>
-    <file>Framerate.zip</file>
-</mod>
-<mod>
-    <name>FOV Modifier hotkey</name>
-    <shortdescription>Allows you to change the FOV modifier in-game using the 'Page Up' and 'Page Down' keys.</shortdescription>
-    <creator>Vod</creator>
-    <id>fovmodifier</id>
-    <version>1</version>
-    <file>FOV Modifier.zip</file>
-</mod>
-<mod>
-    <name>Improved Fights</name>
-    <shortdescription>This mod adds some new fight settings to the game</shortdescription>
-    <creator>Vod</creator>
-    <id>fights</id>
-    <version>1</version>
-    <file>Fights.zip</file>
-</mod>
-<mod>
-    <name>Extended Timer Settings</name>
-    <shortdescription>More settings for customizing the game timer</shortdescription>
-    <creator>Vod</creator>
-    <id>extendedgametimer</id>
-    <version>1</version>
-    <file>Extended Timer.zip</file>
-</mod>
-<mod>
-    <name>Improved Ditty Engine</name>
-    <shortdescription>A new ditty engine with support for MP3 files and new events</shortdescription>
-    <creator>Vod</creator>
-    <id>vodsditties</id>
-    <version>1</version>
-    <file>Ditties.zip</file>
-</mod>
-<mod>
-    <name>Disable autopause</name>
-    <shortdescription>Allows you to disable the automatic pausing that happens when the game window loses focus</shortdescription>
-    <creator>Vod</creator>
-    <id>autopause</id>
-    <version>1</version>
-    <file>Disable Autopause.zip</file>
-</mod>
-<mod>
-    <name>Cutscene FOV</name>
-    <shortdescription>Randomly set the FOV for cutscenes. You can set the minimum and maximum FOV in the options.</shortdescription>
-    <creator>Vod</creator>
-    <id>cutscenefov</id>
-    <version>1</version>
-    <file>Cutscene FOV.zip</file>
-</mod>
-<mod>
-    <name>Automatic Texture Injector</name>
-    <shortdescription>Automatically injects all texture from launcher/media/textures/inject/</shortdescription>
-    <creator>Vod</creator>
-    <id>textureinjector</id>
-    <version>1</version>
-    <file>Automatic Texture Injector.zip</file>
-</mod>
-<mod>
-    <name>Automatic Font Loader</name>
-    <shortdescription>Automatically loads all fonts from launcher/media/fonts/</shortdescription>
-    <creator>Vod</creator>
-    <id>fontloader</id>
-    <version>1</version>
-    <file>Automatic Font Loader.zip</file>
-</mod>
-<mod>
-    <name>XBox 360 Controller</name>
-    <shortdescription>Adds support for Xbox 360 controllers, including triggers, battery information and rumble</shortdescription>
-    <creator>Vod</creator>
-    <id>xbox360</id>
-    <version>1</version>
-    <file>XInput.zip</file>
-</mod>
-<mod>
-    <name>Animated Upper Crowd</name>
-    <shortdescription>Adds a basic animated effect to the upper crowd sprites</shortdescription>
-    <creator>Vod</creator>
-    <version>1</version>
-    <id>uppercrowd</id>
-    <file>Upper Crowd.zip</file>
-</mod>
-<mod>
-    <name>Vod's Animated Upper Ad Engine</name>
-    <shortdescription>A modular animated upper ad engine</shortdescription>
-    <creator>Vod</creator>
-    <version>1</version>
-    <id>upperads</id>
-    <file>Upper Ads.zip</file>
-</mod>
-<mod>
-    <name>Tweaks</name>
-    <shortdescription>Allows you to edit various hidden variables within the Launcher GUI</shortdescription>
-    <creator>Vod</creator>
-    <id>tweaks</id>
-    <version>1</version>
-    <file>Tweaks.zip</file>
-</mod>
+<list>
+    <mod>
+        <name>Shot Speed</name>
+        <shortdescription>Displays a shot speed indicator</shortdescription>
+        <creator>Vod</creator>
+        <id>shotspeed</id>
+        <version>1</version>
+        <file>Shot Speed.zip</file>
+    </mod>
+    <mod>
+        <name>Default System Scripts</name>
+        <shortdescription>Default launcher system scripts</shortdescription>
+        <creator>Vod</creator>
+        <required />
+        <id>systemscripts</id>
+        <version>2</version>
+        <file>System.zip</file>
+    </mod>
+    <mod>
+        <name>Selective Texture Filtering</name>
+        <shortdescription>Adds the option to selectivity apply anisotropic filtering to textures that need it most</shortdescription>
+        <creator>Vod</creator>
+        <id>selectivefilter</id>
+        <version>1</version>
+        <file>Selective Filtering.zip</file>
+    </mod>
+    <mod>
+        <name>Screenshots</name>
+        <shortdescription>Faster screenshot method with jpg support</shortdescription>
+        <creator>Vod</creator>
+        <id>screenshot</id>
+        <version>1</version>
+        <file>Screenshots.zip</file>
+    </mod>
+    <mod>
+        <name>Reload Assets</name>
+        <shortdescription>Reload all assets, including scripts using CTRL + ALT + R.</shortdescription>
+        <description>This releases all assets and scripts and then reloads all scripts and executes the global scope. After all scripts have been loaded, it calls the "Reloaded" callback. This is where you can reload everything. 
+        It's best practice to have a single function that loads all assets that is called by both the "DeviceCreated" callback and "Reloaded" callback.
+        </description>
+        <creator>Vod</creator>
+        <id>reload</id>
+        <version>1</version>
+        <file>Reload Assets.zip</file>
+    </mod>
+    <mod>
+        <name>Points</name>
+        <shortdescription>Set the game mode points within the launcher GUI</shortdescription>
+        <creator>Vod</creator>
+        <id>points</id>
+        <version>1</version>
+        <file>Points.zip</file>
+    </mod>
+    <mod>
+        <name>NHL Upper Ad Module</name>
+        <shortdescription>Animated upper ads for NHL teams. This is an addon for Vod's Animated Upper Ad mod.</shortdescription>
+        <creator>Jedeash</creator>
+        <id>upperadsnhl</id>
+        <version>1</version>
+        <dependency>upperads</dependency>
+        <file>NHL Upper Ads.zip</file>
+    </mod>
+    <mod>
+        <name>Default Libraries</name>
+        <shortdescription>Default launcher libraries</shortdescription>
+        <creator>Vod</creator>
+        <version>2</version>
+        <required />
+        <id>launcherlibs</id>
+        <launcherversion>2</launcherversion>
+        <file>Libraries.zip</file>
+    </mod>
+    <mod>
+        <name>Jumbotron Video Example</name>
+        <shortdescription>This is a demonstration of the video texture library. Select Toronto as the home team and press the "I" key while in replay mode</shortdescription>
+        <creator>Vod</creator>
+        <launcherversion>1</launcherversion>
+        <version>1</version>
+        <id>jumbotronexample</id>
+        <file>Jumbotron Example.zip</file>
+    </mod>
+    <mod>
+        <name>Improved Goalie Cover</name>
+        <shortdescription>This mod attempts to improve the goalie cover logic</shortdescription>
+        <description>
+            This mod adds a system of "heat" to the game. As the heat goes up, the goalie has a greater chance of covering the puck.
+
+            <b>This mod is highly experimental.</b>
+        </description>
+        <creator>Vod</creator>
+        <id>goaliecover</id>
+        <version>1</version>
+        <file>Goalie Cover.zip</file>
+    </mod>
+    <mod>
+        <name>Goal Replays</name>
+        <shortdescription>Allows you to configure the number of times to display goal replays</shortdescription>
+        <creator>Vod</creator>
+        <id>goalreplays</id>
+        <version>1</version>
+        <file>Goal Replays.zip</file>
+    </mod>
+    <mod>
+        <name>Game Logging</name>
+        <shortdescription>Log gameplay events to "Game Log.txt"</shortdescription>
+        <creator>Vod</creator>
+        <id>gamelog</id>
+        <version>1</version>
+        <file>Game Log.zip</file>
+    </mod>
+    <mod>
+        <name>Framerate</name>
+        <shortdescription>Measures and displays the framerate</shortdescription>
+        <creator>Vod</creator>
+        <id>framerate</id>
+        <version>1</version>
+        <file>Framerate.zip</file>
+    </mod>
+    <mod>
+        <name>FOV Modifier hotkey</name>
+        <shortdescription>Allows you to change the FOV modifier in-game using the 'Page Up' and 'Page Down' keys.</shortdescription>
+        <creator>Vod</creator>
+        <id>fovmodifier</id>
+        <version>1</version>
+        <file>FOV Modifier.zip</file>
+    </mod>
+    <mod>
+        <name>Improved Fights</name>
+        <shortdescription>This mod adds some new fight settings to the game</shortdescription>
+        <creator>Vod</creator>
+        <id>fights</id>
+        <version>1</version>
+        <file>Fights.zip</file>
+    </mod>
+    <mod>
+        <name>Extended Timer Settings</name>
+        <shortdescription>More settings for customizing the game timer</shortdescription>
+        <creator>Vod</creator>
+        <id>extendedgametimer</id>
+        <version>1</version>
+        <file>Extended Timer.zip</file>
+    </mod>
+    <mod>
+        <name>Improved Ditty Engine</name>
+        <shortdescription>A new ditty engine with support for MP3 files and new events</shortdescription>
+        <creator>Vod</creator>
+        <id>vodsditties</id>
+        <version>1</version>
+        <file>Ditties.zip</file>
+    </mod>
+    <mod>
+        <name>Disable autopause</name>
+        <shortdescription>Allows you to disable the automatic pausing that happens when the game window loses focus</shortdescription>
+        <creator>Vod</creator>
+        <id>autopause</id>
+        <version>1</version>
+        <file>Disable Autopause.zip</file>
+    </mod>
+    <mod>
+        <name>Cutscene FOV</name>
+        <shortdescription>Randomly set the FOV for cutscenes. You can set the minimum and maximum FOV in the options.</shortdescription>
+        <creator>Vod</creator>
+        <id>cutscenefov</id>
+        <version>1</version>
+        <file>Cutscene FOV.zip</file>
+    </mod>
+    <mod>
+        <name>Automatic Texture Injector</name>
+        <shortdescription>Automatically injects all texture from launcher/media/textures/inject/</shortdescription>
+        <creator>Vod</creator>
+        <id>textureinjector</id>
+        <version>1</version>
+        <file>Automatic Texture Injector.zip</file>
+    </mod>
+    <mod>
+        <name>Automatic Font Loader</name>
+        <shortdescription>Automatically loads all fonts from launcher/media/fonts/</shortdescription>
+        <creator>Vod</creator>
+        <id>fontloader</id>
+        <version>1</version>
+        <file>Automatic Font Loader.zip</file>
+    </mod>
+    <mod>
+        <name>XBox 360 Controller</name>
+        <shortdescription>Adds support for Xbox 360 controllers, including triggers, battery information and rumble</shortdescription>
+        <creator>Vod</creator>
+        <id>xbox360</id>
+        <version>1</version>
+        <file>XInput.zip</file>
+    </mod>
+    <mod>
+        <name>Animated Upper Crowd</name>
+        <shortdescription>Adds a basic animated effect to the upper crowd sprites</shortdescription>
+        <creator>Vod</creator>
+        <version>1</version>
+        <id>uppercrowd</id>
+        <file>Upper Crowd.zip</file>
+    </mod>
+    <mod>
+        <name>Vod's Animated Upper Ad Engine</name>
+        <shortdescription>A modular animated upper ad engine</shortdescription>
+        <creator>Vod</creator>
+        <version>1</version>
+        <id>upperads</id>
+        <file>Upper Ads.zip</file>
+    </mod>
+    <mod>
+        <name>Tweaks</name>
+        <shortdescription>Allows you to edit various hidden variables within the Launcher GUI</shortdescription>
+        <creator>Vod</creator>
+        <id>tweaks</id>
+        <version>1</version>
+        <file>Tweaks.zip</file>
+    </mod>
+</list>
