@@ -97,6 +97,8 @@
     <creator>Vod</creator>
     <id>gamelog</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Goal Replays.zip</file>
@@ -211,6 +213,7 @@
     <required />
     <id>launchersystem</id>
     <version>2</version>
+    <dependency>launcherlibs</dependency>
 </mod>
 <mod>
     <file>TSN Clock Example.zip</file>
