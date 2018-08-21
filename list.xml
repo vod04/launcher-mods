@@ -7,6 +7,8 @@
     <creator>Vod</creator>
     <id>fontloader</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Automatic Texture Injector.zip</file>
@@ -15,6 +17,8 @@
     <creator>Vod</creator>
     <id>textureinjector</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Cutscene FOV.zip</file>
@@ -23,6 +27,8 @@
     <creator>Vod</creator>
     <id>cutscenefov</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Disable Autopause.zip</file>
@@ -31,6 +37,8 @@
     <creator>Vod</creator>
     <id>autopause</id>
     <version>2</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Ditties.zip</file>
@@ -39,6 +47,8 @@
     <creator>Vod</creator>
     <id>vodsditties</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Extended Timer.zip</file>
@@ -47,6 +57,8 @@
     <creator>Vod</creator>
     <id>extendedgametimer</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Fights.zip</file>
@@ -55,6 +67,8 @@
     <creator>Vod</creator>
     <id>fights</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>FOV Modifier.zip</file>
@@ -63,6 +77,8 @@
     <creator>Vod</creator>
     <id>fovmodifier</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Framerate.zip</file>
@@ -71,6 +87,8 @@
     <creator>Vod</creator>
     <id>framerate</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Game Log.zip</file>
@@ -87,19 +105,18 @@
     <creator>Vod</creator>
     <id>goalreplays</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Goalie Cover.zip</file>
     <name>Improved Goalie Cover</name>
     <shortdescription>This mod attempts to improve the goalie cover logic</shortdescription>
-    <description>
-        This mod adds a system of "heat" to the game. As the heat goes up, the goalie has a greater chance of covering the puck.
-        
-        <b>This mod is highly experimental.</b>
-    </description>
     <creator>Vod</creator>
     <id>goaliecover</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Jumbotron Example.zip</file>
@@ -109,6 +126,8 @@
     <launcherversion>1</launcherversion>
     <version>1</version>
     <id>jumbotronexample</id>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Libraries.zip</file>
@@ -128,6 +147,8 @@
     <id>upperadsnhl</id>
     <version>1</version>
     <dependency>upperads</dependency>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Points.zip</file>
@@ -136,6 +157,8 @@
     <creator>Vod</creator>
     <id>points</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Reload Assets.zip</file>
@@ -147,6 +170,8 @@
     <creator>Vod</creator>
     <id>reload</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Screenshots.zip</file>
@@ -155,6 +180,8 @@
     <creator>Vod</creator>
     <id>screenshot</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Selective Filtering.zip</file>
@@ -163,6 +190,8 @@
     <creator>Vod</creator>
     <id>selectivefilter</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Shot Speed.zip</file>
@@ -171,6 +200,8 @@
     <creator>Vod</creator>
     <id>shotspeed</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>System.zip</file>
@@ -178,7 +209,7 @@
     <shortdescription>Default launcher system scripts</shortdescription>
     <creator>Vod</creator>
     <required />
-    <id>systemscripts</id>
+    <id>launchersystem</id>
     <version>2</version>
 </mod>
 <mod>
@@ -188,6 +219,8 @@
     <creator>Jedeash, Lepiney, Vod</creator>
     <id>tsnclockexample</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Tweaks.zip</file>
@@ -196,6 +229,8 @@
     <creator>Vod</creator>
     <id>tweaks</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Upper Ads.zip</file>
@@ -204,6 +239,8 @@
     <creator>Vod</creator>
     <version>1</version>
     <id>upperads</id>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>Upper Crowd.zip</file>
@@ -212,6 +249,8 @@
     <creator>Vod</creator>
     <version>1</version>
     <id>uppercrowd</id>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 <mod>
     <file>XInput.zip</file>
@@ -220,5 +259,7 @@
     <creator>Vod</creator>
     <id>xbox360</id>
     <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
 </mod>
 </list>
