@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <list>
 <mod>
+    <checksum>103d4174ad31f7a6d2f0886f67ace6939a9a8d1f186d445a6ff0d4aa11921b8d</checksum>
     <file>Automatic Font Loader.zip</file>
     <name>Automatic Font Loader</name>
     <shortdescription>Automatically loads all fonts from launcher/media/fonts/</shortdescription>
@@ -11,6 +12,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>e04fd84d24871ac9a20967aa1b2a9ac3b2610d0a28281e33191987b9f5a44d28</checksum>
     <file>Automatic Texture Injector.zip</file>
     <name>Automatic Texture Injector</name>
     <shortdescription>Automatically injects all texture from launcher/media/textures/inject/</shortdescription>
@@ -21,6 +23,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>93a40214af8c8705b4c0b253b50b56e7084f903fc93b3364db6e40e24a36b47b</checksum>
     <file>Cutscene FOV.zip</file>
     <name>Cutscene FOV</name>
     <shortdescription>Randomly set the FOV for cutscenes. You can set the minimum and maximum FOV in the options.</shortdescription>
@@ -31,6 +34,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>7d7978b511d0b96dd106000ad0408d030d27804564a194afde072a280665a6a5</checksum>
     <file>Disable Autopause.zip</file>
     <name>Disable autopause</name>
     <shortdescription>Allows you to disable the automatic pausing that happens when the game window loses focus</shortdescription>
@@ -41,6 +45,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>e40aefa3218c928044dcaba61cdd9a07aa61171a2bf1e1eb043c33c14b46463b</checksum>
     <file>Ditties.zip</file>
     <name>Improved Ditty Engine</name>
     <shortdescription>A new ditty engine with support for MP3 files and new events</shortdescription>
@@ -51,6 +56,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>6c1dd469e2361f0e75e4f5cbeabb97f46fa948ddd9b9323617dff6aef458dd72</checksum>
     <file>Extended Timer.zip</file>
     <name>Extended Timer Settings</name>
     <shortdescription>More settings for customizing the game timer</shortdescription>
@@ -61,6 +67,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>07c7c995c4eb6ca2e3e86c0af1f53f89a3c95bd8abb1e4079f445a25515f162e</checksum>
     <file>Fights.zip</file>
     <name>Improved Fights</name>
     <shortdescription>This mod adds some new fight settings to the game</shortdescription>
@@ -71,6 +78,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>7682b31fa1b2c8a4c4894f28d235565a0e11339d4eccc73f828955d5b254b95f</checksum>
     <file>FOV Modifier.zip</file>
     <name>FOV Modifier hotkey</name>
     <shortdescription>Allows you to change the FOV modifier in-game using the 'Page Up' and 'Page Down' keys.</shortdescription>
@@ -81,6 +89,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>d01887dbacd4e666dc2bdb27dd1a2d7184a03d579ced49567f60dcfa951b1717</checksum>
     <file>Framerate.zip</file>
     <name>Framerate</name>
     <shortdescription>Measures and displays the framerate</shortdescription>
@@ -91,6 +100,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>eb01bfa17fadf0850475165c1874135467a9d2ac20b6ad4cabf7a626a122821c</checksum>
     <file>Game Log.zip</file>
     <name>Game Logging</name>
     <shortdescription>Log gameplay events to "Game Log.txt"</shortdescription>
@@ -101,6 +111,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>88181b74e87c57f38ba934ef29571325e05bdcbc060f3f236961b1df7929a775</checksum>
     <file>Goal Replays.zip</file>
     <name>Goal Replays</name>
     <shortdescription>Allows you to configure the number of times to display goal replays</shortdescription>
@@ -111,6 +122,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>4b52a9a9c998ba5ec992b0c243d33b317935b91c1499b77c2d1d0d872a4cdf2d</checksum>
     <file>Goalie Cover.zip</file>
     <name>Improved Goalie Cover</name>
     <shortdescription>This mod attempts to improve the goalie cover logic</shortdescription>
@@ -121,6 +133,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>eab36545d134686b880739c07439d306d058052e9d3ac36aa8bc0e639e86e46c</checksum>
     <file>Jumbotron Example.zip</file>
     <name>Jumbotron Video Example</name>
     <shortdescription>This is a demonstration of the video texture library. Select Toronto as the home team and press the "I" key while in replay mode</shortdescription>
@@ -132,6 +145,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>55fb9d8642872fa48d8e73f839a47272183f214c0cb5dbc38750b5b21d2cc8e4</checksum>
     <file>Libraries.zip</file>
     <name>Default Libraries</name>
     <shortdescription>Default launcher libraries</shortdescription>
@@ -142,6 +156,7 @@
     <launcherversion>2</launcherversion>
 </mod>
 <mod>
+    <checksum>fadf61e29296883efc2a5be3cc562add58da60b117d50bf434030cf54d945395</checksum>
     <file>NHL Upper Ads.zip</file>
     <name>NHL Upper Ad Module</name>
     <shortdescription>Animated upper ads for NHL teams. This is an addon for Vod's Animated Upper Ad mod.</shortdescription>
@@ -153,6 +168,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>d674628df9c6dfe4472254fac3adfbb7267abad995117a6fd4ac3657fe00b6e1</checksum>
     <file>Points.zip</file>
     <name>Points</name>
     <shortdescription>Set the game mode points within the launcher GUI</shortdescription>
@@ -163,6 +179,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>3fc823a3bd45c1b6b1134df294b46be35da03f8142cd788886120afbc5880bf5</checksum>
     <file>Reload Assets.zip</file>
     <name>Reload Assets</name>
     <shortdescription>Reload all assets, including scripts using CTRL + ALT + R.</shortdescription>
@@ -176,6 +193,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>3fcb88463cca101c83f6a1287b5c5fae887477d45ae154189e41c3804874f533</checksum>
     <file>Screenshots.zip</file>
     <name>Screenshots</name>
     <shortdescription>Faster screenshot method with jpg support</shortdescription>
@@ -186,6 +204,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>3a26c0cf4c85d9d5b3d4cb4c35e2700cec2be4b4714f78c7f7bdc956808f4e76</checksum>
     <file>Selective Filtering.zip</file>
     <name>Selective Texture Filtering</name>
     <shortdescription>Adds the option to selectivity apply anisotropic filtering to textures that need it most</shortdescription>
@@ -196,6 +215,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>9329350d657ac12574cdfa7ce2d3094eb3414c2e03a42b122133f97e2b4b348c</checksum>
     <file>Shot Speed.zip</file>
     <name>Shot Speed</name>
     <shortdescription>Displays a shot speed indicator</shortdescription>
@@ -206,6 +226,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>992c84e2786824d2f864f919cddc21976b0745e0962966f1d0cb47cde12e099d</checksum>
     <file>System.zip</file>
     <name>Default System Scripts</name>
     <shortdescription>Default launcher system scripts</shortdescription>
@@ -216,6 +237,7 @@
     <dependency>launcherlibs</dependency>
 </mod>
 <mod>
+    <checksum>d09be82ae606d310a4001add436c84d2817c3b5699b2c1b22e236533eece7862</checksum>
     <file>TSN Clock Example.zip</file>
     <name>TSN Clock Example</name>
     <shortdescription>TSN Clock Example</shortdescription>
@@ -226,6 +248,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>2ad5bcb2f2a06b31784fb2deb570b02dfe66e908d74838bb1ba40d4b6119f0b3</checksum>
     <file>Tweaks.zip</file>
     <name>Tweaks</name>
     <shortdescription>Allows you to edit various hidden variables within the Launcher GUI</shortdescription>
@@ -236,6 +259,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>c3c926b37f96d4baf7c1dd8565cf9bb944baabb6e29a5e57cc4f390cc2eeb23c</checksum>
     <file>Upper Ads.zip</file>
     <name>Vod's Animated Upper Ad Engine</name>
     <shortdescription>A modular animated upper ad engine</shortdescription>
@@ -246,6 +270,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>35b737317d7c5270a828c457e17fedcf19bb5a657288ec1f2d2a2cf85cb6b0dd</checksum>
     <file>Upper Crowd.zip</file>
     <name>Animated Upper Crowd</name>
     <shortdescription>Adds a basic animated effect to the upper crowd sprites</shortdescription>
@@ -256,6 +281,7 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
+    <checksum>9aec650dc0fd228c787863e7f327676312def91a954a8474e6f5e837d5e71979</checksum>
     <file>XInput.zip</file>
     <name>XBox 360 Controller</name>
     <shortdescription>Adds support for Xbox 360 controllers, including triggers, battery information and rumble</shortdescription>
