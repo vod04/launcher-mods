@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <list>
 <mod>
+    <checksum>1b00c5d4b6d9629928b9a4a730deb511577495b638bbf40889f120baecc09768</checksum>
+    <file>Animated Upper Ads.zip</file>
+    <name>Animated Upper Ad Engine</name>
+    <shortdescription>A modular animated upper ad engine</shortdescription>
+    <creator>Vod</creator>
+    <version>1</version>
+    <id>upperads</id>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+</mod>
+<mod>
+    <checksum>35b737317d7c5270a828c457e17fedcf19bb5a657288ec1f2d2a2cf85cb6b0dd</checksum>
+    <file>Animated Upper Crowd.zip</file>
+    <name>Animated Upper Crowd</name>
+    <shortdescription>Adds a basic animated effect to the upper crowd sprites</shortdescription>
+    <creator>Vod</creator>
+    <version>1</version>
+    <id>uppercrowd</id>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+</mod>
+<mod>
     <checksum>103d4174ad31f7a6d2f0886f67ace6939a9a8d1f186d445a6ff0d4aa11921b8d</checksum>
     <file>Automatic Font Loader.zip</file>
     <name>Automatic Font Loader</name>
@@ -34,9 +56,9 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
-    <checksum>7d7978b511d0b96dd106000ad0408d030d27804564a194afde072a280665a6a5</checksum>
+    <checksum>e1cc20825359732eec224101327be0f8d1fdf1d05d1bc5f5ecd9c1eb4aa86af8</checksum>
     <file>Disable Autopause.zip</file>
-    <name>Disable autopause</name>
+    <name>Disable Autopause</name>
     <shortdescription>Allows you to disable the automatic pausing that happens when the game window loses focus</shortdescription>
     <creator>Vod</creator>
     <id>autopause</id>
@@ -255,28 +277,6 @@
     <creator>Vod</creator>
     <id>tweaks</id>
     <version>1</version>
-    <dependency>launcherlibs</dependency>
-    <dependency>launchersystem</dependency>
-</mod>
-<mod>
-    <checksum>c3c926b37f96d4baf7c1dd8565cf9bb944baabb6e29a5e57cc4f390cc2eeb23c</checksum>
-    <file>Upper Ads.zip</file>
-    <name>Vod's Animated Upper Ad Engine</name>
-    <shortdescription>A modular animated upper ad engine</shortdescription>
-    <creator>Vod</creator>
-    <version>1</version>
-    <id>upperads</id>
-    <dependency>launcherlibs</dependency>
-    <dependency>launchersystem</dependency>
-</mod>
-<mod>
-    <checksum>35b737317d7c5270a828c457e17fedcf19bb5a657288ec1f2d2a2cf85cb6b0dd</checksum>
-    <file>Upper Crowd.zip</file>
-    <name>Animated Upper Crowd</name>
-    <shortdescription>Adds a basic animated effect to the upper crowd sprites</shortdescription>
-    <creator>Vod</creator>
-    <version>1</version>
-    <id>uppercrowd</id>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
 </mod>
