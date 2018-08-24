@@ -111,13 +111,13 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
-    <checksum>342a83e9ae5c127f523120be32d1a4d71401bd805a5d8478f5bab7db2f1fff2c</checksum>
+    <checksum>d38f6d4df8aef65fcd33f103064bb7b69fa0fa070e4d77c8c523103942fceda8</checksum>
     <file>Framerate.zip</file>
     <name>Framerate</name>
     <shortdescription>Measures and displays the framerate</shortdescription>
     <creator>Vod</creator>
     <id>framerate</id>
-    <version>1.1</version>
+    <version>1.2</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
 </mod>
