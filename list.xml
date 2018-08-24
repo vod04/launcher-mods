@@ -111,13 +111,13 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
-    <checksum>d01887dbacd4e666dc2bdb27dd1a2d7184a03d579ced49567f60dcfa951b1717</checksum>
+    <checksum>342a83e9ae5c127f523120be32d1a4d71401bd805a5d8478f5bab7db2f1fff2c</checksum>
     <file>Framerate.zip</file>
     <name>Framerate</name>
     <shortdescription>Measures and displays the framerate</shortdescription>
     <creator>Vod</creator>
     <id>framerate</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
 </mod>
@@ -167,12 +167,12 @@
     <dependency>launchersystem</dependency>
 </mod>
 <mod>
-    <checksum>a77c8f98cd4706535e2e4341ee2490f083e9a9fddd31e9b5da0a31957c7ed5ec</checksum>
+    <checksum>29f33f6f386607fdba2b70ecd3cc46777fa6c3ee11a7044b4f30b51e900fe7e4</checksum>
     <file>Libraries.zip</file>
     <name>Default Libraries</name>
     <shortdescription>Default launcher libraries</shortdescription>
     <creator>Vod</creator>
-    <version>2.1</version>
+    <version>2.2</version>
     <required />
     <id>launcherlibs</id>
     <launcherversion>2</launcherversion>
