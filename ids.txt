@@ -1,0 +1,52 @@
+upperads
+Animated Upper Ad Engine
+uppercrowd
+Animated Upper Crowd
+fontloader
+Automatic Font Loader
+textureinjector
+Automatic Texture Injector
+cutscenefov
+Cutscene FOV
+autopause
+Disable Autopause
+vodsditties
+Improved Ditty Engine
+extendedgametimer
+Extended Timer Settings
+fights
+Improved Fights
+fovmodifier
+FOV Modifier hotkey
+framerate
+Framerate
+gamelog
+Game Logging
+goalreplays
+Goal Replays
+goaliecover
+Improved Goalie Cover
+jumbotronexample
+Jumbotron Video Example
+launcherlibs
+Default Libraries
+upperadsnhl
+NHL Upper Ad Module
+points
+Points
+reload
+Reload Assets
+screenshot
+Screenshots
+selectivefilter
+Selective Texture Filtering
+shotspeed
+Shot Speed
+launchersystem
+Default System Scripts
+tsnclockexample
+TSN Clock Example
+tweaks
+Tweaks
+xbox360
+XBox 360 Controller
