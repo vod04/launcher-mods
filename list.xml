@@ -259,13 +259,13 @@
     <dependency>launcherlibs</dependency>
 </mod>
 <mod>
-    <checksum>d09be82ae606d310a4001add436c84d2817c3b5699b2c1b22e236533eece7862</checksum>
+    <checksum>175a430f1d08f81f932c3d6f358f8360e91dfd438cfcecb133ff19e89cddef5d</checksum>
     <file>TSN Clock Example.zip</file>
     <name>TSN Clock Example</name>
     <shortdescription>TSN Clock Example</shortdescription>
     <creator>Jedeash, Lepiney, Vod</creator>
     <id>tsnclockexample</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
 </mod>
