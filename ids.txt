@@ -10,7 +10,7 @@ cutscenefov
 Cutscene FOV
 autopause
 Disable Autopause
-vodsditties
+newdittyengine
 Improved Ditty Engine
 extendedgametimer
 Extended Timer Settings

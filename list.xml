@@ -71,11 +71,11 @@
     <name>Improved Ditty Engine</name>
     <shortdescription>A new ditty engine with support for MP3 files and new events</shortdescription>
     <creator>Vod</creator>
-    <id>vodsditties</id>
+    <id>newdittyengine</id>
     <version>1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>e40aefa3218c928044dcaba61cdd9a07aa61171a2bf1e1eb043c33c14b46463b</checksum>
+    <checksum>b90247173fe5485fc6781d5d17cfa7a7057ef8ce511ba0caa88c21101a1862ac</checksum>
     <file>Ditties.zip</file>
   </mod>
   <mod>
