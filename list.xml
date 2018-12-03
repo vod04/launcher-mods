@@ -2,6 +2,15 @@
 
 <list>
   <mod>
+    <name>ESPN 94-95 Tv Overlay</name>
+    <shortdescription>Add an ESPN 95 Overlay + FOXTrax shot speed + Change the Jumbotron's videos based on situations + Loads team based reflections for helmets and spots</shortdescription>
+    <creator>Jedeash</creator>
+    <id>E95-V2</id>
+    <version>1.0</version>
+    <checksum>652e2cec615a9c9a37cbf5bbf66026f64ca407fdc6fb4b4129c2796225590809</checksum>
+    <file>94-95 ESPN.zip</file>
+  </mod>
+  <mod>
     <name>Animated Upper Ad Engine</name>
     <shortdescription>A modular animated upper ad engine</shortdescription>
     <creator>Vod</creator>
