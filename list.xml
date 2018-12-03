@@ -7,7 +7,9 @@
     <creator>Jedeash</creator>
     <id>E95-V2</id>
     <version>1.0</version>
-    <checksum>652e2cec615a9c9a37cbf5bbf66026f64ca407fdc6fb4b4129c2796225590809</checksum>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>d90fc32202bba6d18f8ae41d7cd510258d270660fa6487d81cba6297f6c2c787</checksum>
     <file>94-95 ESPN.zip</file>
   </mod>
   <mod>
