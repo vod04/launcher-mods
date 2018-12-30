@@ -232,10 +232,10 @@
     <shortdescription>Faster screenshot method with jpg support</shortdescription>
     <creator>Vod</creator>
     <id>screenshot</id>
-    <version>1</version>
+    <version>2</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>3fcb88463cca101c83f6a1287b5c5fae887477d45ae154189e41c3804874f533</checksum>
+    <checksum>370a5786dc4b311eef9934acf56eaf6fb0ef62e96c1dc4475ddce1acbd533b70</checksum>
     <file>Screenshots.zip</file>
   </mod>
   <mod>
