@@ -298,10 +298,10 @@
     <shortdescription>Adds support for Xbox 360 controllers, including triggers, battery information and rumble</shortdescription>
     <creator>Vod</creator>
     <id>xbox360</id>
-    <version>2.2</version>
+    <version>2.3</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>4ce359f9e652b145016d53cf18a53c9ecc9a7e3c0773f1c2ccf7bf13dfa296a9</checksum>
+    <checksum>7cb6b4a6a876ea2f1d41003b8f3ddb888f90e8c9fe214072707fc576b852be68</checksum>
     <file>XInput.zip</file>
   </mod>
 </list>
