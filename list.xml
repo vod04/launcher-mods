@@ -301,7 +301,7 @@
     <version>2.3</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>7cb6b4a6a876ea2f1d41003b8f3ddb888f90e8c9fe214072707fc576b852be68</checksum>
+    <checksum>facccf8dc52f0e31bd55318041429eb8a7dc61279f30a64c59e1af7fe6eedb40</checksum>
     <file>XInput.zip</file>
   </mod>
 </list>
