@@ -50,5 +50,5 @@ tsnclockexample
 TSN Clock Example
 tweaks
 Tweaks
-xbox360
-XBox 360 Controller
+xinput
+XInput

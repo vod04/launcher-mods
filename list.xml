@@ -294,14 +294,14 @@
     <file>Tweaks.zip</file>
   </mod>
   <mod>
-    <name>XBox 360 Controller</name>
-    <shortdescription>Adds support for Xbox 360 controllers, including triggers, battery information and rumble</shortdescription>
+    <name>XInput</name>
+    <shortdescription>Adds support for XInput controllers (such as XBox 360), including trigger mapping, battery information and rumble</shortdescription>
     <creator>Vod</creator>
-    <id>xbox360</id>
-    <version>2.3</version>
+    <id>xinput</id>
+    <version>2.4</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>facccf8dc52f0e31bd55318041429eb8a7dc61279f30a64c59e1af7fe6eedb40</checksum>
+    <checksum>fccba19cac23d29441ceb755433a5c456516e8fb58dc3534366345c004dce310</checksum>
     <file>XInput.zip</file>
   </mod>
 </list>
