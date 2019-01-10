@@ -298,10 +298,10 @@
     <shortdescription>Adds support for XInput controllers (such as XBox 360), including trigger mapping, battery information and rumble</shortdescription>
     <creator>Vod</creator>
     <id>xinput</id>
-    <version>2.4</version>
+    <version>2.41</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>fccba19cac23d29441ceb755433a5c456516e8fb58dc3534366345c004dce310</checksum>
+    <checksum>59d5b216f775822bde470904396bfeb5f0f9d5f152c3d06672c4828e96c258d9</checksum>
     <file>XInput.zip</file>
   </mod>
 </list>
