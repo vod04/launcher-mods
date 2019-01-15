@@ -274,12 +274,12 @@
   <mod>
     <name>TSN Clock Example</name>
     <shortdescription>A basic gameclock that demonstrates some of the launcher's library and drawing functions</shortdescription>
-    <creator>Jedeash, Lepiney, Vod</creator>
+    <creator>Lepiney, Jedeash, Vod</creator>
     <id>tsnclockexample</id>
-    <version>1.3</version>
+    <version>1.4</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>46b1ca0172e7a265d578f799bb2a9cbadc5eb7cf57aa1743bbd3796b90db6e82</checksum>
+    <checksum>d6cb4104b9dc8b7b9a2f5e11ac515ca65eb1069a88329cfb2aa7b3803a1c22d7</checksum>
     <file>TSN Clock Example.zip</file>
   </mod>
   <mod>
