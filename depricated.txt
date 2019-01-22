@@ -1,2 +1,4 @@
 Selective Filtering
 Selective Filtering.zip
+Disable Autopause
+Disable Autopause.zip
