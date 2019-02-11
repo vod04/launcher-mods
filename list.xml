@@ -182,11 +182,11 @@
     <name>Default Libraries</name>
     <shortdescription>Default launcher libraries</shortdescription>
     <creator>Vod</creator>
-    <version>2.4</version>
+    <version>2.41</version>
     <required/>
     <id>launcherlibs</id>
     <launcherversion>2</launcherversion>
-    <checksum>afa948f34468a9bd34ee6e77bfe9c20286450d4bfad4ea0d3a47ffd1753b7b5b</checksum>
+    <checksum>723ec7b782cf779d0f093db494f504a4851d604e36e58ff570c0b0922f440497</checksum>
     <file>Libraries.zip</file>
   </mod>
   <mod>
@@ -266,9 +266,9 @@
     <creator>Vod</creator>
     <required/>
     <id>launchersystem</id>
-    <version>2.1</version>
+    <version>2.11</version>
     <dependency>launcherlibs</dependency>
-    <checksum>61af5fbdbc28376068e8cc0981b9a7788ca7c5eca62a05be0360b5a30c1bbee1</checksum>
+    <checksum>38d67f35a24bc7ae3467e91bc26983510e9ea7f634ea45353435b1f4d5b279ab</checksum>
     <file>System.zip</file>
   </mod>
   <mod>
