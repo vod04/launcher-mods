@@ -10,8 +10,6 @@ textureinjector
 Automatic Texture Injector
 cutscenefov
 Cutscene FOV
-autopause
-Disable Autopause
 newdittyengine
 Improved Ditty Engine
 extendedgametimer
@@ -40,8 +38,6 @@ reload
 Reload Assets
 screenshot
 Screenshots
-selectivefilter
-Selective Texture Filtering
 shotspeed
 Shot Speed
 launchersystem

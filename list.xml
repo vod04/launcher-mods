@@ -68,17 +68,6 @@
     <file>Cutscene FOV.zip</file>
   </mod>
   <mod>
-    <name>Disable Autopause</name>
-    <shortdescription>Allows you to disable the automatic pausing that happens when the game window loses focus</shortdescription>
-    <creator>Vod</creator>
-    <id>autopause</id>
-    <version>2</version>
-    <dependency>launcherlibs</dependency>
-    <dependency>launchersystem</dependency>
-    <checksum>e1cc20825359732eec224101327be0f8d1fdf1d05d1bc5f5ecd9c1eb4aa86af8</checksum>
-    <file>Disable Autopause.zip</file>
-  </mod>
-  <mod>
     <name>Improved Ditty Engine</name>
     <shortdescription>A new ditty engine with support for MP3 files and new events</shortdescription>
     <creator>Vod</creator>
@@ -237,17 +226,6 @@
     <dependency>launchersystem</dependency>
     <checksum>370a5786dc4b311eef9934acf56eaf6fb0ef62e96c1dc4475ddce1acbd533b70</checksum>
     <file>Screenshots.zip</file>
-  </mod>
-  <mod>
-    <name>Selective Texture Filtering</name>
-    <shortdescription>Adds the option to selectivity apply anisotropic filtering to textures that need it most</shortdescription>
-    <creator>Vod</creator>
-    <id>selectivefilter</id>
-    <version>1</version>
-    <dependency>launcherlibs</dependency>
-    <dependency>launchersystem</dependency>
-    <checksum>3a26c0cf4c85d9d5b3d4cb4c35e2700cec2be4b4714f78c7f7bdc956808f4e76</checksum>
-    <file>Selective Filtering.zip</file>
   </mod>
   <mod>
     <name>Shot Speed</name>
