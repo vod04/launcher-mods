@@ -72,10 +72,10 @@
     <shortdescription>A new ditty engine with support for MP3 files and new events</shortdescription>
     <creator>Vod</creator>
     <id>newdittyengine</id>
-    <version>1.4</version>
+    <version>1.41</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>00975285dba30708fbc03177ea68a72b2198d5f918e9fa781dc3dfac4fa791d4</checksum>
+    <checksum>4778320a78827dd6cb291f6a758bc673de1788024f090ffeb0a9c19cb45edc7d</checksum>
     <file>Ditties.zip</file>
   </mod>
   <mod>
