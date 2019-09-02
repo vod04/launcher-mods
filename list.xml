@@ -191,6 +191,17 @@
     <file>NHL Upper Ads.zip</file>
   </mod>
   <mod>
+    <name>Pyeongchang Video Jumbotron</name>
+    <shortdescription>Adapt the jumbotron video for home team</shortdescription>
+    <creator>LJedeash</creator>
+    <id>Olympics2018video</id>
+    <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>d4303fd5475f60589d8155200614551e16219fde83a795c182c1075741cc7705</checksum>
+    <file>Olympicjumbotron2018.zip</file>
+  </mod>
+  <mod>
     <name>Points</name>
     <shortdescription>Set the game mode points within the launcher GUI</shortdescription>
     <creator>Vod</creator>

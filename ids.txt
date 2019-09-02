@@ -32,6 +32,8 @@ launcherlibs
 Default Libraries
 upperadsnhl
 NHL Upper Ad Module
+Olympics2018video
+Pyeongchang Video Jumbotron
 points
 Points
 reload
