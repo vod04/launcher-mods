@@ -149,10 +149,10 @@
     <shortdescription>This mod attempts to improve the goalie cover logic</shortdescription>
     <creator>Vod</creator>
     <id>goaliecover</id>
-    <version>1</version>
+    <version>2</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>4b52a9a9c998ba5ec992b0c243d33b317935b91c1499b77c2d1d0d872a4cdf2d</checksum>
+    <checksum>c5f8ae62c56c7fdcf9c3406bc88abe725bfc9f73d5d40596fe0cf53a7e310095</checksum>
     <file>Goalie Cover.zip</file>
   </mod>
   <mod>
