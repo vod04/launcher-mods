@@ -80,13 +80,13 @@
   </mod>
   <mod>
     <name>Extended Timer Settings</name>
-    <shortdescription>More settings for customizing the game timer</shortdescription>
+    <shortdescription>Adds more settings for customizing the game timer</shortdescription>
     <creator>Vod</creator>
     <id>extendedgametimer</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>6c1dd469e2361f0e75e4f5cbeabb97f46fa948ddd9b9323617dff6aef458dd72</checksum>
+    <checksum>04272ffd13379cbcf76064d7a6e8af285455d120eeee481be17fa8a3b699f721</checksum>
     <file>Extended Timer.zip</file>
   </mod>
   <mod>
