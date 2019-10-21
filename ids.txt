@@ -12,6 +12,8 @@ cutscenefov
 Cutscene FOV
 newdittyengine
 Improved Ditty Engine
+arenalitehd
+Dynasty Arena Lite HD Textures
 extendedgametimer
 Extended Timer Settings
 fights

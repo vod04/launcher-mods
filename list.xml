@@ -79,6 +79,17 @@
     <file>Ditties.zip</file>
   </mod>
   <mod>
+    <name>Dynasty Arena Lite HD Textures</name>
+    <shortdescription>Injects HD textures for Dynasty's Arena Lite</shortdescription>
+    <creator>Ciais</creator>
+    <id>arenalitehd</id>
+    <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>87e37cd5f46f96b27d360154234050414aeb0cdd32b7a488ded253f8f03ea252</checksum>
+    <file>Dynasty Arena Lite HD Textures.zip</file>
+  </mod>
+  <mod>
     <name>Extended Timer Settings</name>
     <shortdescription>Adds more settings for customizing the game timer</shortdescription>
     <creator>Vod</creator>
