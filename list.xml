@@ -182,11 +182,11 @@
     <name>Default Libraries</name>
     <shortdescription>Default launcher libraries</shortdescription>
     <creator>Vod</creator>
-    <version>2.42</version>
+    <version>2.43</version>
     <required/>
     <id>launcherlibs</id>
     <launcherversion>2</launcherversion>
-    <checksum>4568146b77ee89c1f9af2c023f8ae46a0d6f3493e43df963510b4864916eac5d</checksum>
+    <checksum>d6ad4704b51f3be98a1042d0ada44859aa3d52434d9f5fbe76e0db378600e435</checksum>
     <file>Libraries.zip</file>
   </mod>
   <mod>
@@ -266,10 +266,21 @@
     <creator>Vod</creator>
     <required/>
     <id>launchersystem</id>
-    <version>2.12</version>
+    <version>2.13</version>
     <dependency>launcherlibs</dependency>
-    <checksum>7b0cb87e793c1cbdb4296161411fc5066efa11f46a196eb97d35fdb619326ceb</checksum>
+    <checksum>c9a1f39753f11e242cd100ca9f176cd65ee80369bfd40c81a2de65a56f523dad</checksum>
     <file>System.zip</file>
+  </mod>
+  <mod>
+    <name>True Broadcast Camera</name>
+    <shortdescription>Replaces the broadcast camera with a more realistic camera</shortdescription>
+    <creator>Vod</creator>
+    <id>truebroadcast</id>
+    <version>1.1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>10b4a0b75649c4a9c15198d594a9f633997c34ff0bf4fef0758a24d0f614d3bb</checksum>
+    <file>True Broadcast Camera.zip</file>
   </mod>
   <mod>
     <name>TSN Clock Example</name>
