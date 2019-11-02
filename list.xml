@@ -182,11 +182,11 @@
     <name>Default Libraries</name>
     <shortdescription>Default launcher libraries</shortdescription>
     <creator>Vod</creator>
-    <version>2.43</version>
+    <version>2.44</version>
     <required/>
     <id>launcherlibs</id>
     <launcherversion>2</launcherversion>
-    <checksum>d6ad4704b51f3be98a1042d0ada44859aa3d52434d9f5fbe76e0db378600e435</checksum>
+    <checksum>a7881e96d6be36ee47012ec5c115e65ee6a8840bd2c8fae24a7c331583fa2726</checksum>
     <file>Libraries.zip</file>
   </mod>
   <mod>
@@ -266,9 +266,9 @@
     <creator>Vod</creator>
     <required/>
     <id>launchersystem</id>
-    <version>2.13</version>
+    <version>2.14</version>
     <dependency>launcherlibs</dependency>
-    <checksum>c9a1f39753f11e242cd100ca9f176cd65ee80369bfd40c81a2de65a56f523dad</checksum>
+    <checksum>14bd429642b4e3280fd38903eab2ad8ec423c98976858db8ae37085a54f3ebac</checksum>
     <file>System.zip</file>
   </mod>
   <mod>
@@ -276,10 +276,10 @@
     <shortdescription>Replaces the broadcast camera with a more realistic camera</shortdescription>
     <creator>Vod</creator>
     <id>truebroadcast</id>
-    <version>1.2</version>
+    <version>1.3</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>8f4a2d190768111d8a89a735722c7092c5210eb6c3d206abec7415911d10d1a8</checksum>
+    <checksum>9826568525410e6df21175693274e6104cb094dacead930c7c19b97eb919678c</checksum>
     <file>True Broadcast Camera.zip</file>
   </mod>
   <mod>
