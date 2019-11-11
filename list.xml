@@ -206,10 +206,10 @@
     <shortdescription>Adapt the jumbotron video for home team</shortdescription>
     <creator>LJedeash</creator>
     <id>Olympics2018video</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>204fa41ec39005348699004a0bc42519ff3fcd400efcfd39e28824dc1461c3e6</checksum>
+    <checksum>f0d2e19e2401724de2c506f0ade8d4955ec010b76b9fa1eaf9f2a5806b71932a</checksum>
     <file>Olympicjumbotron2018.zip</file>
   </mod>
   <mod>
