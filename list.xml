@@ -20,7 +20,7 @@
     <id>upperads</id>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>2af279ea50c98cf5447239eeaf5a1276e36f22e7685091617582fa96460e80f7</checksum>
+    <checksum>43ba40bbbaabc1948acaab51c7df595ece509a2b81e24f968422c56815373c2d</checksum>
     <file>Animated Upper Ads.zip</file>
   </mod>
   <mod>
@@ -198,7 +198,7 @@
     <dependency>upperads</dependency>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>8fdc1b799ef44cdbb86ef577bb35a01b32677484597197a4da5e5300de7069a4</checksum>
+    <checksum>a59879d2924b3fcb79650baf2062697c8ffcb8f3179c599d415381a849e55b37</checksum>
     <file>NHL Upper Ads.zip</file>
   </mod>
   <mod>
