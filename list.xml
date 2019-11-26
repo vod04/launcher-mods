@@ -283,14 +283,14 @@
     <file>True Broadcast Camera.zip</file>
   </mod>
   <mod>
-    <name>TSN Clock Example</name>
+    <name>TSN Clock</name>
     <shortdescription>A basic gameclock that demonstrates some of the launcher's library and drawing functions</shortdescription>
     <creator>Lepiney, Jedeash, Vod</creator>
     <id>tsnclockexample</id>
-    <version>1.43</version>
+    <version>1.44</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>130c2765d631a068dacfad37b432c2d3774151259083cc3d618b7e40c057ba80</checksum>
+    <checksum>b1392d8093ce2a3785b73f6fdb2cdb6e8ce21b7e5f7cc175021b51bd314cd1b7</checksum>
     <file>TSN Clock Example.zip</file>
   </mod>
   <mod>

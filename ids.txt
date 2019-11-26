@@ -49,7 +49,7 @@ Default System Scripts
 truebroadcast
 True Broadcast Camera
 tsnclockexample
-TSN Clock Example
+TSN Clock
 tweaks
 Tweaks
 xinput
