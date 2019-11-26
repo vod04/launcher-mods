@@ -16,11 +16,11 @@
     <name>Animated Upper Ad Engine</name>
     <shortdescription>A modular animated upper ad engine</shortdescription>
     <creator>Vod</creator>
-    <version>1</version>
+    <version>1.1</version>
     <id>upperads</id>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>1b00c5d4b6d9629928b9a4a730deb511577495b638bbf40889f120baecc09768</checksum>
+    <checksum>2af279ea50c98cf5447239eeaf5a1276e36f22e7685091617582fa96460e80f7</checksum>
     <file>Animated Upper Ads.zip</file>
   </mod>
   <mod>
@@ -194,11 +194,11 @@
     <shortdescription>Animated upper ads for NHL teams. This is an addon for Vod's Animated Upper Ad mod.</shortdescription>
     <creator>Franco Duck</creator>
     <id>upperadsnhl</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>upperads</dependency>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>fadf61e29296883efc2a5be3cc562add58da60b117d50bf434030cf54d945395</checksum>
+    <checksum>8fdc1b799ef44cdbb86ef577bb35a01b32677484597197a4da5e5300de7069a4</checksum>
     <file>NHL Upper Ads.zip</file>
   </mod>
   <mod>
@@ -287,10 +287,10 @@
     <shortdescription>A basic gameclock that demonstrates some of the launcher's library and drawing functions</shortdescription>
     <creator>Lepiney, Jedeash, Vod</creator>
     <id>tsnclockexample</id>
-    <version>1.42</version>
+    <version>1.43</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>0169f17dcdece5569bbbe45a8baee06300094a6facf87ff76ea1a45c1f328fa2</checksum>
+    <checksum>130c2765d631a068dacfad37b432c2d3774151259083cc3d618b7e40c057ba80</checksum>
     <file>TSN Clock Example.zip</file>
   </mod>
   <mod>
