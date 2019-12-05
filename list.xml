@@ -16,22 +16,22 @@
     <name>Animated Upper Ad Engine</name>
     <shortdescription>A modular animated upper ad engine</shortdescription>
     <creator>Vod</creator>
-    <version>1.1</version>
+    <version>1.2</version>
     <id>upperads</id>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>43ba40bbbaabc1948acaab51c7df595ece509a2b81e24f968422c56815373c2d</checksum>
+    <checksum>6edf772812575eaef846a3915eba967b997d49c9bc7e8c5d7ac5bf704346fcc3</checksum>
     <file>Animated Upper Ads.zip</file>
   </mod>
   <mod>
     <name>Animated Upper Crowd</name>
     <shortdescription>Adds a basic animated effect to the upper crowd sprites</shortdescription>
     <creator>Vod</creator>
-    <version>1</version>
+    <version>1.1</version>
     <id>uppercrowd</id>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>35b737317d7c5270a828c457e17fedcf19bb5a657288ec1f2d2a2cf85cb6b0dd</checksum>
+    <checksum>a3200510eeff0593dcc9f19a2d6f5e324c289d4b0ace24c5c9f6c0c06e1fcbbb</checksum>
     <file>Animated Upper Crowd.zip</file>
   </mod>
   <mod>
