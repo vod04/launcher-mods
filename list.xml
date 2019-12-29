@@ -138,10 +138,10 @@
     <shortdescription>Log gameplay events to "Game Log.txt"</shortdescription>
     <creator>Vod</creator>
     <id>gamelog</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>eb01bfa17fadf0850475165c1874135467a9d2ac20b6ad4cabf7a626a122821c</checksum>
+    <checksum>e92abd45000dc019e21835c0169ae49efc127b873630d3b03713f2d6a6a1fe2b</checksum>
     <file>Game Log.zip</file>
   </mod>
   <mod>
