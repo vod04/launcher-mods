@@ -276,10 +276,10 @@
     <shortdescription>Replaces the broadcast camera with a more realistic camera</shortdescription>
     <creator>Vod</creator>
     <id>truebroadcast</id>
-    <version>1.3</version>
+    <version>1.4</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>9826568525410e6df21175693274e6104cb094dacead930c7c19b97eb919678c</checksum>
+    <checksum>b72cdca376c95f7e8adfc0d747f6f6e1b43f45e54646efd001b23e9f16da9f60</checksum>
     <file>True Broadcast Camera.zip</file>
   </mod>
   <mod>
