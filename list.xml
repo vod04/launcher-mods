@@ -182,11 +182,11 @@
     <name>Default Libraries</name>
     <shortdescription>Default launcher libraries</shortdescription>
     <creator>Vod</creator>
-    <version>2.45</version>
+    <version>2.46</version>
     <required/>
     <id>launcherlibs</id>
     <launcherversion>2</launcherversion>
-    <checksum>89598accd9e4ab7754e2101a77e6d5de125dc2234be34176780b2a508968443c</checksum>
+    <checksum>bf6918e2234850f29486a8b9b050ce982e3802328d64557d8ecb514f80b80e3e</checksum>
     <file>Libraries.zip</file>
   </mod>
   <mod>
@@ -298,10 +298,10 @@
     <shortdescription>Allows you to edit various hidden variables within the Launcher GUI</shortdescription>
     <creator>Vod</creator>
     <id>tweaks</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>2ad5bcb2f2a06b31784fb2deb570b02dfe66e908d74838bb1ba40d4b6119f0b3</checksum>
+    <checksum>37c24c0cf0d80e4a8e2ae5aa199823b96d9a5bf1518d865f8fe9a7a61295ee0c</checksum>
     <file>Tweaks.zip</file>
   </mod>
   <mod>
