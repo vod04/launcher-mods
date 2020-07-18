@@ -170,12 +170,12 @@
     <name>Jumbotron Video Example</name>
     <shortdescription>This is a demonstration of the video texture library. Select Toronto as the home team and press the "I" key while in replay mode</shortdescription>
     <creator>Vod</creator>
-    <launcherversion>1</launcherversion>
-    <version>1</version>
+    <launcherversion>1.1</launcherversion>
+    <version>1.1</version>
     <id>jumbotronexample</id>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>eab36545d134686b880739c07439d306d058052e9d3ac36aa8bc0e639e86e46c</checksum>
+    <checksum>e4184a44fc249bf17e197bd8beb0f3c3ec7d1d053d5f94f6188101077ce129a5</checksum>
     <file>Jumbotron Example.zip</file>
   </mod>
   <mod>
