@@ -8,6 +8,8 @@ fontloader
 Automatic Font Loader
 textureinjector
 Automatic Texture Injector
+CP_Clock_Master
+CerebralPolicy's Immersive Game Clocks Master
 cutscenefov
 Cutscene FOV
 newdittyengine
@@ -28,6 +30,8 @@ goalreplays
 Goal Replays
 goaliecover
 Improved Goalie Cover
+CP_HNICClock
+2020 HNIC Clock with Animated Goal Notification
 jumbotronexample
 Jumbotron Video Example
 launcherlibs
@@ -40,6 +44,8 @@ points
 Points
 reload
 Reload Assets
+CP_RSNClock
+2020 RSN Clock with Animated Goal Notification
 screenshot
 Screenshots
 shotspeed

@@ -57,6 +57,17 @@
     <file>Automatic Texture Injector.zip</file>
   </mod>
   <mod>
+    <name>CerebralPolicy's Immersive Game Clocks Master</name>
+    <shortdescription>The master file for CerebralPolicy's gameclocks, any shared assets will be housed in this mod.</shortdescription>
+    <creator>Update: CerebralPolicy, Original: Lepiney, Jedeash, Vod</creator>
+    <id>CP_Clock_Master</id>
+    <version>1.0</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>118724b85282e46144350677b66133f901042c715cbc0c4ec2ee8a36041b4f6d</checksum>
+    <file>Channels_2020_Cerebral.zip</file>
+  </mod>
+  <mod>
     <name>Cutscene FOV</name>
     <shortdescription>Randomly set the FOV for cutscenes. You can set the minimum and maximum FOV in the options.</shortdescription>
     <creator>Vod</creator>
@@ -167,6 +178,18 @@
     <file>Goalie Cover.zip</file>
   </mod>
   <mod>
+    <name>2020 HNIC Clock with Animated Goal Notification</name>
+    <shortdescription>A Hockey Night in Canada goal clock with a modern goal animation.</shortdescription>
+    <creator>Update: CerebralPolicy, Original: Lepiney, Jedeash, Vod</creator>
+    <id>CP_HNICClock</id>
+    <version>2020</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <dependency>CP_Clock_Master</dependency>
+    <checksum>06c5e2694cccc932da7587292abf63447d816c5166c4c4d9100957c1189f656e</checksum>
+    <file>HNIC_2020_Cerebral.zip</file>
+  </mod>
+  <mod>
     <name>Jumbotron Video Example</name>
     <shortdescription>This is a demonstration of the video texture library. Select Toronto as the home team and press the "I" key while in replay mode</shortdescription>
     <creator>Vod</creator>
@@ -237,6 +260,18 @@
     <dependency>launchersystem</dependency>
     <checksum>3fc823a3bd45c1b6b1134df294b46be35da03f8142cd788886120afbc5880bf5</checksum>
     <file>Reload Assets.zip</file>
+  </mod>
+  <mod>
+    <name>2020 RSN Clock with Animated Goal Notification</name>
+    <shortdescription>A Rogers Sportsnet goal clock with a modern goal animation.</shortdescription>
+    <creator>Update: CerebralPolicy, Original: Lepiney, Jedeash, Vod</creator>
+    <id>CP_RSNClock</id>
+    <version>2020</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <dependency>CP_Clock_Master</dependency>
+    <checksum>956b1d00b26e8bb1accae06ebf7cedd007d53c133131a1476469ff903fa649e7</checksum>
+    <file>RSN_2020_Cerebral.zip</file>
   </mod>
   <mod>
     <name>Screenshots</name>
