@@ -301,9 +301,9 @@
     <creator>Vod</creator>
     <required/>
     <id>launchersystem</id>
-    <version>2.14</version>
+    <version>2.15</version>
     <dependency>launcherlibs</dependency>
-    <checksum>14bd429642b4e3280fd38903eab2ad8ec423c98976858db8ae37085a54f3ebac</checksum>
+    <checksum>7b5640145cf3535e1f8f3b0e7d5b18d6f98a1b6339f927ab48d6523a19fbb44e</checksum>
     <file>System.zip</file>
   </mod>
   <mod>
