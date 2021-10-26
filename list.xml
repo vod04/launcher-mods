@@ -147,12 +147,12 @@
   <mod>
     <name>Game Logging</name>
     <shortdescription>Log gameplay events to "Game Log.txt"</shortdescription>
-    <creator>Vod</creator>
+    <creator>Vod,drgullen</creator>
     <id>gamelog</id>
-    <version>1.1</version>
+    <version>1.2</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>e92abd45000dc019e21835c0169ae49efc127b873630d3b03713f2d6a6a1fe2b</checksum>
+    <checksum>2a16544a332c9cf144a6dfed3cac978ab272746f51227f359ac861e2dbb79bba</checksum>
     <file>Game Log.zip</file>
   </mod>
   <mod>
