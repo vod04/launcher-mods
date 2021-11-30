@@ -80,13 +80,13 @@
   </mod>
   <mod>
     <name>Improved Ditty Engine</name>
-    <shortdescription>A new ditty engine with support for MP3 files and new events</shortdescription>
+    <shortdescription>A new ditty engine with support for MP3 files, reverb and new events</shortdescription>
     <creator>Vod</creator>
     <id>newdittyengine</id>
-    <version>1.46</version>
+    <version>1.47</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>c6d2d42c6e336edf30f47b53a74b93642fdcbaae12d7ed7de1ba3928ac34918f</checksum>
+    <checksum>7035a8c6f7f6c9b859883b610e8bab7bddbbcc86a32261f6a0c2eb2169603fa6</checksum>
     <file>Ditties.zip</file>
   </mod>
   <mod>
