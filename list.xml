@@ -190,6 +190,18 @@
     <file>HNIC_2020_Cerebral.zip</file>
   </mod>
   <mod>
+    <name>In Game Tweaks</name>
+    <shortdescription>This mod enables access to change various aspects of game play</shortdescription>
+    <creator>drgullen</creator>
+    <id>IGT</id>
+    <version>2.6</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <dependency>tweaks</dependency>
+    <checksum>e41eac794af86719c1675f088ef06824e2963d3570c10276cda6b932e27c48ea</checksum>
+    <file>In Game Tweaks.zip</file>
+  </mod>
+  <mod>
     <name>Jumbotron Video Example</name>
     <shortdescription>This is a demonstration of the video texture library. Select Toronto as the home team and press the "I" key while in replay mode</shortdescription>
     <creator>Vod</creator>

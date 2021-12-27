@@ -32,6 +32,8 @@ goaliecover
 Improved Goalie Cover
 CP_HNICClock
 2020 HNIC Clock with Animated Goal Notification
+IGT
+In Game Tweaks
 jumbotronexample
 Jumbotron Video Example
 launcherlibs
