@@ -308,6 +308,17 @@
     <file>Shot Speed.zip</file>
   </mod>
   <mod>
+    <name>StatClock</name>
+    <shortdescription>An in-game clock that shows various stats throughout the game.</shortdescription>
+    <creator>drgullen</creator>
+    <id>drgstatclock</id>
+    <version>1.0.0</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>9418dec9bda6564db052901129ae9e586d59742069274482177d10c2c02432ca</checksum>
+    <file>StatClock.zip</file>
+  </mod>
+  <mod>
     <name>Default System Scripts</name>
     <shortdescription>Default launcher system scripts</shortdescription>
     <creator>Vod</creator>

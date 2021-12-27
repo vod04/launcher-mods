@@ -52,6 +52,8 @@ screenshot
 Screenshots
 shotspeed
 Shot Speed
+drgstatclock
+StatClock
 launchersystem
 Default System Scripts
 truebroadcast
