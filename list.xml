@@ -194,11 +194,11 @@
     <shortdescription>This mod enables access to change various aspects of game play</shortdescription>
     <creator>drgullen</creator>
     <id>IGT</id>
-    <version>2.9</version>
+    <version>2.91</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
     <dependency>tweaks</dependency>
-    <checksum>4c77da4b99d696daf0368f5baef727de1e89a37201c244765b7d18be5458dfd7</checksum>
+    <checksum>92af3fbe0716025efa53b889b764214aefc471993ffc7c2d96462a69bb3dfa5f</checksum>
     <file>In Game Tweaks.zip</file>
   </mod>
   <mod>
